@@ -6,6 +6,7 @@
 
 - Auth with supabase
 - Ai chatGPT connected, [see lib](https://sdk.vercel.ai/docs/introduction),[see chatGPT docs](https://platform.openai.com/docs/overview)
+- shadcn
 
 ## Run locally steps
 

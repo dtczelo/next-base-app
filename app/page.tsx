@@ -1,7 +1,3 @@
-import AuthButton from "../components/AuthButton";
-import { createClient } from "@/utils/supabase/server";
-import Section from "@/components/Section";
-import Image from "next/image";
 import Header from "@/components/Header";
 
 export default async function Index() {
